@@ -1,3 +1,8 @@
+/*To access any character in s string by index */
+    // 1. A non-empty string (str)
+    // 2. An index of the character from where it is to be accessed (k)
+
+
 #include <iostream>
 #include <string>
 
